@@ -1,0 +1,117 @@
+{
+  "selectedTemplate": 3,
+  "headings": {
+    "work": "Work",
+    "education": "Education",
+    "projects": "Projects",
+    "awards": "",
+    "skills": "Skills"
+  },
+  "basics": {
+    "name": "Michael Alberda  ",
+    "location": {
+      "address": "Boise, ID"
+    },
+    "website": "https://github.com/malberda",
+    "email": "malberda15@gmail.com",
+    "phone": "2087612179"
+  },
+  "education": [
+    {
+      "institution": "University of Idaho",
+      "location": "Moscow, ID",
+      "area": "Mathematics - Computation Option",
+      "studyType": "BS",
+      "startDate": "September 2017",
+      "endDate": "May 2021",
+      "gpa": "3.5"
+    },
+    {
+      "institution": "Boise State University",
+      "location": "Boise, ID",
+      "studyType": "BS",
+      "area": "Computer Science",
+      "startDate": "August 2021",
+      "endDate": "Ongoing"
+    }
+  ],
+  "work": [
+    {
+      "location": "Boise, ID",
+      "position": "Head Lifeguard",
+      "website": "",
+      "startDate": "June 2016",
+      "endDate": "September 2017",
+      "highlights": [
+        "Work with other lifeguards to maintain a clean and safe place of business and engage with patrons to secure a happy YMCA"
+      ],
+      "company": "YMCA"
+    },
+    {
+      "highlights": [
+        "Cleanly and correctly grade all homework and deliver it on time to the professor"
+      ],
+      "company": "Dr. Neuhaus",
+      "position": "Grader",
+      "location": "Moscow, ID",
+      "startDate": "September 2019",
+      "endDate": "September 2019"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Proicient Programming Languages",
+      "level": "",
+      "keywords": [
+        "C, C++, Java, Linux Shell, Git"
+      ]
+    },
+    {
+      "keywords": [
+        "Javascript, HTML, Python, Unity"
+      ],
+      "name": "Familiar Programming Languages"
+    },
+    {
+      "keywords": [
+        "Microsoft Office Suite, General Computer Use and Troubleshooting"
+      ],
+      "name": "Other Relevent Skills"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Reduction of States in a Finite Automata",
+      "description": "Demonstration of the concept of reducing states in a finite automata",
+      "url": "https://github.com/malberda/cs385finalproject",
+      "keywords": [
+        "C"
+      ]
+    },
+    {
+      "keywords": [
+        "Javascript"
+      ],
+      "name": "Optimal Binary Search Tree",
+      "description": "A simple visual demonstration of an optimal binary search trees creation and expansion",
+      "url": "https://github.com/malberda/project-395"
+    }
+  ],
+  "awards": [
+    {
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "education",
+    "work",
+    "skills",
+    "projects",
+    "awards"
+  ]
+}
