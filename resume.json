@@ -95,6 +95,14 @@
       "name": "Optimal Binary Search Tree",
       "description": "A simple visual demonstration of an optimal binary search trees creation and expansion",
       "url": "https://github.com/malberda/project-395"
+    },
+    {
+      "keywords": [
+        "Java"
+      ],
+      "name": "CPU Scheduling Simulation",
+      "description": "Emulates a simple CPU and its scheduling of processes",
+      "url": "https://github.com/malberda/CPUSchedulingEmulator"
     }
   ],
   "awards": [
