@@ -55,7 +55,7 @@
       "position": "Grader",
       "location": "Moscow, ID",
       "startDate": "September 2019",
-      "endDate": "September 2019"
+      "endDate": "September 2020"
     }
   ],
   "skills": [
@@ -103,6 +103,14 @@
       "name": "CPU Scheduling Simulation",
       "description": "Emulates a simple CPU and its scheduling of processes",
       "url": "https://github.com/malberda/CPUSchedulingEmulator"
+    },
+    {
+      "keywords": [
+        "SQL"
+      ],
+      "url": "https://github.com/malberda/BSU-HU-CS-310-Final-Project",
+      "name": "School Database Manipulation",
+      "description": "Manipulate data from a simple database in order to display skills learned"
     }
   ],
   "awards": [
