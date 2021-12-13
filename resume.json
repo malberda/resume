@@ -111,6 +111,14 @@
       "url": "https://github.com/malberda/BSU-HU-CS-310-Final-Project",
       "name": "School Database Manipulation",
       "description": "Manipulate data from a simple database in order to display skills learned"
+    },
+    {
+      "keywords": [
+        "Java"
+      ],
+      "name": "Data Structures Bioinformatics",
+      "url": "https://github.com/malberda/BTree-BIOINFORMATICS",
+      "description": "Create a B-Tree that stores and performs operations on a series of excerpts of the human genome. Implement a CACHE in order to speed up processing, and search the genome for frequencies of specific substrings. "
     }
   ],
   "awards": [
