@@ -38,14 +38,24 @@
   "work": [
     {
       "location": "Boise, ID",
-      "position": "Head Lifeguard",
+      "position": "Software Intern",
       "website": "",
-      "startDate": "June 2016",
-      "endDate": "September 2017",
+      "endDate": "Ongoing",
+      "highlights": [
+        "Work with developers and other interns to create documentation for existing codebase"
+      ],
+      "company": "Tap Network LLC",
+      "startDate": "January 2022"
+    },
+    {
       "highlights": [
         "Work with other lifeguards to maintain a clean and safe place of business and engage with patrons to secure a happy YMCA"
       ],
-      "company": "YMCA"
+      "company": "YMCA",
+      "position": "Head Lifeguard",
+      "location": "Boise, ID",
+      "startDate": "June 2016",
+      "endDate": "September 2017"
     },
     {
       "highlights": [
