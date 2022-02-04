@@ -70,7 +70,7 @@
   ],
   "skills": [
     {
-      "name": "Proicient Programming Languages",
+      "name": "Proficient Programming Languages:",
       "level": "",
       "keywords": [
         "C, C++, Java, Linux Shell"
@@ -78,20 +78,20 @@
     },
     {
       "keywords": [
-        "Javascript, HTML, Python, Unity"
+        "JavaScript, HTML, Python, Unity"
       ],
-      "name": "Familiar Programming Languages"
+      "name": "Familiar Programming Languages:"
     },
     {
       "keywords": [
         "Scrum and Agile Development, Git"
       ],
-      "name": "Other Relevent Skills"
+      "name": "Other Relevant Skills:"
     }
   ],
   "projects": [
     {
-      "name": "Reduction of States in a Finite Automata",
+      "name": "Reduction of States in a Finite Automaton",
       "description": "Demonstration of the concept of reducing states in a finite automata",
       "url": "https://github.com/malberda/cs385finalproject",
       "keywords": [
@@ -100,7 +100,7 @@
     },
     {
       "keywords": [
-        "Javascript"
+        "JavaScript"
       ],
       "name": "Optimal Binary Search Tree",
       "description": "A simple visual demonstration of an optimal binary search trees creation and expansion",
@@ -128,7 +128,7 @@
       ],
       "name": "Data Structures Bioinformatics",
       "url": "https://github.com/malberda/BTree-BIOINFORMATICS",
-      "description": "Create a B-Tree that stores and performs operations on a series of excerpts of the human genome. Implement a CACHE in order to speed up processing, and search the genome for frequencies of specific substrings. "
+      "description": "Create a B-Tree that stores and performs operations on a series of excerpts of the human genome. Implement a cache in order to speed up processing while searching the genome for frequencies of specific substrings. "
     }
   ],
   "awards": [
