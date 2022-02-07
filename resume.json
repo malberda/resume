@@ -1,7 +1,7 @@
 {
   "selectedTemplate": 3,
   "headings": {
-    "work": "Work",
+    "work": "Experience",
     "education": "Education",
     "projects": "Projects",
     "awards": "",
@@ -18,21 +18,21 @@
   },
   "education": [
     {
-      "institution": "University of Idaho",
-      "location": "Moscow, ID",
-      "area": "Mathematics - Computation Option",
-      "studyType": "BS",
-      "startDate": "September 2017",
-      "endDate": "May 2021",
-      "gpa": "3.5"
-    },
-    {
       "institution": "Boise State University",
       "location": "Boise, ID",
-      "studyType": "BS",
       "area": "Computer Science",
-      "startDate": "August 2021",
-      "endDate": "Ongoing"
+      "studyType": "BS",
+      "endDate": "May 2023",
+      "startDate": "August 2021"
+    },
+    {
+      "institution": "University of Idaho",
+      "location": "Moscow, ID",
+      "studyType": "BS",
+      "area": "Mathematics - Computation Option",
+      "gpa": "3.5",
+      "startDate": "September 2017",
+      "endDate": "May 2021"
     }
   ],
   "work": [
@@ -49,23 +49,23 @@
     },
     {
       "highlights": [
-        "Work with other lifeguards to maintain a clean and safe place of business and engage with patrons to secure a happy YMCA"
-      ],
-      "company": "YMCA",
-      "position": "Head Lifeguard",
-      "location": "Boise, ID",
-      "startDate": "June 2016",
-      "endDate": "September 2017"
-    },
-    {
-      "highlights": [
-        "Cleanly and correctly grade all homework and deliver it on time to the professor"
+        "Cleanly and correctly grade all homework and deliver on time to the professor"
       ],
       "company": "Dr. Neuhaus",
       "position": "Grader",
       "location": "Moscow, ID",
       "startDate": "September 2019",
       "endDate": "September 2020"
+    },
+    {
+      "highlights": [
+        "Work with other lifeguards to maintain a clean and safe place of business and engage with patrons to secure a happy and healthy YMCA"
+      ],
+      "company": "Treasure Valley YMCA",
+      "position": "Head Lifeguard",
+      "location": "Boise, ID",
+      "startDate": "June 2016",
+      "endDate": "September 2017"
     }
   ],
   "skills": [
@@ -78,13 +78,13 @@
     },
     {
       "keywords": [
-        "JavaScript, HTML, Python, Unity"
+        "TypeScript, JavaScript, HTML, Python, Unity"
       ],
       "name": "Familiar Programming Languages:"
     },
     {
       "keywords": [
-        "Scrum and Agile Development, Git"
+        "Scrum and Agile Development, Git Workflow"
       ],
       "name": "Other Relevant Skills:"
     }
@@ -92,7 +92,7 @@
   "projects": [
     {
       "name": "Reduction of States in a Finite Automaton",
-      "description": "Demonstration of the concept of reducing states in a finite automata",
+      "description": "Demonstration of the concept of reducing states in a finite automaton.",
       "url": "https://github.com/malberda/cs385finalproject",
       "keywords": [
         "C"
@@ -103,7 +103,7 @@
         "JavaScript"
       ],
       "name": "Optimal Binary Search Tree",
-      "description": "A simple visual demonstration of an optimal binary search trees creation and expansion",
+      "description": "Created a simple visual demonstration of an optimal binary search trees creation and maintenance ",
       "url": "https://github.com/malberda/project-395"
     },
     {
@@ -111,7 +111,7 @@
         "Java"
       ],
       "name": "CPU Scheduling Simulation",
-      "description": "Emulates a simple CPU and its scheduling of processes",
+      "description": "Emulate a simple CPU and its scheduling of processes using Java and a cache system",
       "url": "https://github.com/malberda/CPUSchedulingEmulator"
     },
     {
@@ -120,7 +120,7 @@
       ],
       "url": "https://github.com/malberda/BSU-HU-CS-310-Final-Project",
       "name": "School Database Manipulation",
-      "description": "Manipulate data from a simple database in order to display skills learned"
+      "description": "Create a databse and manipulate data from it in order to simulate a schools database."
     },
     {
       "keywords": [
