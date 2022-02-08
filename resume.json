@@ -37,15 +37,15 @@
   ],
   "work": [
     {
-      "location": "Boise, ID",
       "position": "Software Intern",
       "website": "",
       "endDate": "Ongoing",
       "highlights": [
-        "Work with developers and other interns to create documentation for existing codebase"
+        "Collaborate with developers and other interns  to create documentation for existing codebase"
       ],
       "company": "Tap Network LLC",
-      "startDate": "January 2022"
+      "startDate": "January 2022",
+      "location": "Boise, ID"
     },
     {
       "highlights": [
@@ -59,7 +59,7 @@
     },
     {
       "highlights": [
-        "Work with other lifeguards to maintain a clean and safe place of business and engage with patrons to secure a happy and healthy YMCA"
+        "Cooperate with other lifeguards and staff to maintain a clean and safe place of business and engage with patrons to nourish a happy and healthy YMCA"
       ],
       "company": "Treasure Valley YMCA",
       "position": "Head Lifeguard",
@@ -92,7 +92,7 @@
   "projects": [
     {
       "name": "Reduction of States in a Finite Automaton",
-      "description": "Demonstration of the concept of reducing states in a finite automaton.",
+      "description": "Created an adaptable demonstration of the concept of reducing states in a finite automaton.",
       "url": "https://github.com/malberda/cs385finalproject",
       "keywords": [
         "C"
@@ -111,7 +111,7 @@
         "Java"
       ],
       "name": "CPU Scheduling Simulation",
-      "description": "Emulate a simple CPU and its scheduling of processes using Java and a cache system",
+      "description": "Emulated a simple CPU and its scheduling of processes using Java and a cache system",
       "url": "https://github.com/malberda/CPUSchedulingEmulator"
     },
     {
