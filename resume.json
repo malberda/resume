@@ -41,7 +41,7 @@
       "website": "",
       "endDate": "Ongoing",
       "highlights": [
-        "Collaborate with developers and other interns  to create documentation for existing codebase"
+        "Collaborate with developers and other interns  to create documentation for existing codebase."
       ],
       "company": "Tap Network LLC",
       "startDate": "January 2022",
@@ -49,9 +49,9 @@
     },
     {
       "highlights": [
-        "Cleanly and correctly grade all homework and deliver on time to the professor"
+        "Grade and correct all homework and deliver on time to the professor."
       ],
-      "company": "Dr. Neuhaus",
+      "company": "Dr. Ralph Neuhaus",
       "position": "Grader",
       "location": "Moscow, ID",
       "startDate": "September 2019",
@@ -59,7 +59,7 @@
     },
     {
       "highlights": [
-        "Cooperate with other lifeguards and staff to maintain a clean and safe place of business and engage with patrons to nourish a happy and healthy YMCA"
+        "Cooperate with other lifeguards and staff to maintain a clean and safe place of business, and engage with patrons to encourage a happy and healthy YMCA."
       ],
       "company": "Treasure Valley YMCA",
       "position": "Head Lifeguard",
@@ -103,7 +103,7 @@
         "JavaScript"
       ],
       "name": "Optimal Binary Search Tree",
-      "description": "Created a simple visual demonstration of an optimal binary search trees creation and maintenance ",
+      "description": "Created a simple visual demonstration of an optimal binary search tree's creation and maintenance.",
       "url": "https://github.com/malberda/project-395"
     },
     {
@@ -111,7 +111,7 @@
         "Java"
       ],
       "name": "CPU Scheduling Simulation",
-      "description": "Emulated a simple CPU and its scheduling of processes using Java and a cache system",
+      "description": "Emulated a simple CPU and its scheduling of processes using Java and a cache system.",
       "url": "https://github.com/malberda/CPUSchedulingEmulator"
     },
     {
@@ -120,7 +120,7 @@
       ],
       "url": "https://github.com/malberda/BSU-HU-CS-310-Final-Project",
       "name": "School Database Manipulation",
-      "description": "Create a databse and manipulate data from it in order to simulate a schools database."
+      "description": "Created a database system and manipulated the data in it to simulate a school's database."
     },
     {
       "keywords": [
@@ -128,7 +128,7 @@
       ],
       "name": "Data Structures Bioinformatics",
       "url": "https://github.com/malberda/BTree-BIOINFORMATICS",
-      "description": "Create a B-Tree that stores and performs operations on a series of excerpts of the human genome. Implement a cache in order to speed up processing while searching the genome for frequencies of specific substrings. "
+      "description": "Created a B-Tree that stores and performs operations on a series of excerpts of the human genome. This project implements a cache in order to speed up processing while searching the genome for frequencies of specific substrings. "
     }
   ],
   "awards": [
